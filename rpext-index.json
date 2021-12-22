@@ -4,8 +4,8 @@
   "info": {
     "name": "RedPill Bootwait",
     "description": "Simple extension which stops the execution early waiting for the boot device to appear",
-    "packer_url": "https://github.com/RedPill-TTG/redpill-boot-wait",
-    "help_url": "https://github.com/RedPill-TTG/redpill-boot-wait"
+    "packer_url": "https://shrill-pond-3e81.hunsh.workers.dev/https://github.com/RedPill-TTG/redpill-boot-wait",
+    "help_url": "https://shrill-pond-3e81.hunsh.workers.dev/https://github.com/RedPill-TTG/redpill-boot-wait"
   },
   "releases": {
     "ds3615xs_25556": "https://shrill-pond-3e81.hunsh.workers.dev/https://raw.githubusercontent.com/RedPill-TTG/redpill-boot-wait/master/recipes/universal.json",
